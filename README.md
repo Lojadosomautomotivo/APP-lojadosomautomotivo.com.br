@@ -1,4 +1,4 @@
-# APP-lojadosomautomotivo.com.br
+# APP lojadosomautomotivo.com.br
 
 O App possui 3 ferramentas muito utilizadas para quem quer montar o seu som automotivo.
 
@@ -15,4 +15,22 @@ A Aplicativo Loja do Som Automotivo está disponível para Android (versão 2.1 
 Link para baixar gratuitamente:
 [APP Loja do som automotivo](https://github.com/Lojadosomautomotivo/APP-lojadosomautomotivo.com.br/releases/latest)
 
-![app lojadosomautomotivo](https://blog.lojadosomautomotivo.com.br/wp-content/uploads/aplicativo-para-calculo-de-litragem-de-caixa-alto-falante-2.jpg)![app som automotivo](https://blog.lojadosomautomotivo.com.br/wp-content/uploads/aplicativo-para-calculo-de-litragem-de-caixa-alto-falante.jpg)
+ | Fotos  | aplicativo |
+| ------------- | ------------- |
+| ![app lojadosomautomotivo](https://blog.lojadosomautomotivo.com.br/wp-content/uploads/aplicativo-para-calculo-de-litragem-de-caixa-alto-falante-2.jpg)  | ![app som automotivo](https://blog.lojadosomautomotivo.com.br/wp-content/uploads/aplicativo-para-calculo-de-litragem-de-caixa-alto-falante.jpg)  |
+| ![](https://blog.lojadosomautomotivo.com.br/wp-content/uploads/aplicativo-para-ligar-alto-falante-modulo-android-2.jpg)  | ![](https://blog.lojadosomautomotivo.com.br/wp-content/uploads/aplicativo-para-ligar-alto-falante-modulo-android.jpg)  |
+| ![](https://blog.lojadosomautomotivo.com.br/wp-content/uploads/aplicativo-para-som-automotivo-android-2.jpg) | ![](https://blog.lojadosomautomotivo.com.br/wp-content/uploads/aplicativo-para-som-automotivo-android-22.jpg) |
+| ![](https://blog.lojadosomautomotivo.com.br/wp-content/uploads/aplicativo-para-som-automotivo-android.jpg) | |
+
+### Como ligar alto falante no módulo amplificador:
+
+[![](http://img.youtube.com/vi/l9_xKi9dFC0/0.jpg)](http://www.youtube.com/watch?v=l9_xKi9dFC0)
+
+### Quantas baterias preciso para meu som automotivo:
+
+[![](http://img.youtube.com/vi/ZS4IXnriXSU/0.jpg)](http://www.youtube.com/watch?v=ZS4IXnriXSU)
+
+### Como calcular a litragem de caixa para meu som automotivo:
+
+[![](http://img.youtube.com/vi/uy12FOkYwyA/0.jpg)](http://www.youtube.com/watch?v=uy12FOkYwyA)
+
