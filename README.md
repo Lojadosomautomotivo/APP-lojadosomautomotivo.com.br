@@ -1,5 +1,4 @@
 # APP-lojadosomautomotivo.com.br
-Android APP loja do som automotivo
 
 O App possui 3 ferramentas muito utilizadas para quem quer montar o seu som automotivo.
 
@@ -15,3 +14,5 @@ A Aplicativo Loja do Som Automotivo está disponível para Android (versão 2.1 
 
 Link para baixar gratuitamente:
 [APP Loja do som automotivo](https://github.com/Lojadosomautomotivo/APP-lojadosomautomotivo.com.br/releases/latest)
+
+![app lojadosomautomotivo](https://blog.lojadosomautomotivo.com.br/wp-content/uploads/aplicativo-para-calculo-de-litragem-de-caixa-alto-falante-2.jpg) ![app som automotivo](https://blog.lojadosomautomotivo.com.br/wp-content/uploads/aplicativo-para-calculo-de-litragem-de-caixa-alto-falante.jpg)
