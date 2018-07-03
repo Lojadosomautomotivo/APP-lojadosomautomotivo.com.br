@@ -14,4 +14,4 @@ Caso tenham dúvidas, há um link diretamente para nosso canal no youtube com v�
 A Aplicativo Loja do Som Automotivo está disponível para Android (versão 2.1 ou superior).
 
 Link para baixar gratuitamente:
-[APP Loja do som automotivo]{https://github.com/Lojadosomautomotivo/APP-lojadosomautomotivo.com.br/releases/latest}
+[APP Loja do som automotivo](https://github.com/Lojadosomautomotivo/APP-lojadosomautomotivo.com.br/releases/latest)
