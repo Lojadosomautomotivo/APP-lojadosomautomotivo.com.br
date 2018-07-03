@@ -40,3 +40,5 @@ Link para baixar gratuitamente:
 [APP Loja do som automotivo](https://github.com/Lojadosomautomotivo/APP-lojadosomautomotivo.com.br/releases/latest)
 
 Baixe e instale o arquivo APK
+
+Mantido por: [Lojadosomautomotivo.com.br](https://www.lojadosomautomotivo.com.br)
